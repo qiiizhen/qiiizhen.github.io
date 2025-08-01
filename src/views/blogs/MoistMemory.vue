@@ -3,7 +3,7 @@
     <h3 id="blog1-head">Moist Memory</h3>
     <div class="post-content">
       <p>终于在暑假下定决心开始做个人博客。我向来是个三分钟热度的人，也不知道此行能够坚持多久（笑）。不过，尝试一下也无妨。</p>
-      <p>总是听友人推荐Vue框架的好，在b某网络高校浅浅修习一番，修得此果，各位见笑。</p>
+      <p>本站使用Vue框架，技艺不精，各位见笑。</p>
       <p id="blog1-ending">记于2025/7/28</p>
     </div>
     <router-link to="/blog" class="back-link">← Back to Blog</router-link>
